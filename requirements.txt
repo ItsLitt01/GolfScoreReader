@@ -4,3 +4,5 @@ pillow
 google-generativeai
 python-dotenv
 python-multipart
+supabase
+
